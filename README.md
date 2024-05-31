@@ -76,6 +76,7 @@
 
 
 ## 컴퓨터 비전
+-   Richard Szeliski. *Computer Vision:Algorithms and Applications*.2nd ed. Springer,2021
 -	오일석. 「컴퓨터 비전과 딥러닝」. 한빛아카데미, 2023
 -	라쟈링가파 샨무갸마니. 「컴퓨터 비전과 딥러닝」. 테크 트랜스 그룹 T4 역. 에이콘출판, 2018
     - Rajalingappaa Shanmugamani. *Deep Learning for Computer Vision : Expert techniques to train advanced neural networks using TensorFlow and Keras*. Packt Publishing, 2018
