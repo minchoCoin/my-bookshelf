@@ -73,7 +73,14 @@
 -	다카시마 료이치. 「파이썬으로 배우는 음성인식」. 정권우 역. 비제이퍼블릭, 2023
     - 高島遼一. 「Pythonで学ぶ音声認識 機械学習実践シリーズ」. インプレス, 2021
 -	박해선. 「혼자 공부하는 머신러닝+딥러닝」. 한빛미디어, 2020
-
+- 오카노하라 다이스케. 「AI 딥 다이브」. 정원창 역. 한빛미디어. 2024
+- 오일석. 「기계 학습. 한빛아카데미. 2017
+## 강화학습
+- 리처드 서튼, 앤드류 바르토. 「단단한 강화학습」. 김성우 역. 제이펍. 2020
+    - Sutton, Richard S., Barto, Andrew G. *Reinforcement Learning, Second Edition: An Introduction*. Bradford Book. 2018
+- 로라 그래서, 와 룬 켕. 「단단한 심층강화학습」. 김성우 역. 2022
+  - Laura Graesser , Wah Loon Keng. *Foundations of Deep Reinforcement Learning*. Addison-Wesley. 2017
+- 아들랑 드 폰테베. 「강화학습/심층강화학습 특강」. 김정인 역. 위키북스. 2021
 
 ## 컴퓨터 비전
 -   Richard Szeliski. *Computer Vision:Algorithms and Applications*.2nd ed. Springer,2021
@@ -81,6 +88,7 @@
 -	라쟈링가파 샨무갸마니. 「컴퓨터 비전과 딥러닝」. 테크 트랜스 그룹 T4 역. 에이콘출판, 2018
     - Rajalingappaa Shanmugamani. *Deep Learning for Computer Vision : Expert techniques to train advanced neural networks using TensorFlow and Keras*. Packt Publishing, 2018
 -	오일석. 「컴퓨터 비전」. 한빛아카데미, 2014
+- 서지영. 「딥러닝 파이토치 교과서」. 길벗. 2022
 
 ## 프로그래밍 언어론
 -	Robert W. Sebesta. 「프로그래밍 언어론」. 10판. 하상호, 유원희 역. 피어슨에듀케이션코리아, 2012
@@ -151,22 +159,23 @@
 ## 컴파일러
 -	Alfred V. Aho, 「컴파일러」.2판. 유원희 역. 교보문고, 2009
     - Alfred Aho, Jeffrey Ullman, Ravi Sethi, Monica Lam. *Compilers: Principles, Techniques, and Tools*. 2nd ed. Addison Wesley, 2006
+- 박두순. 「컴파일러의 이해」. 한빛아카데미. 2020
 
 ## 클라우드 컴퓨팅
 -	Thomas Erl, Zaigham Mahmood, Ricardo Puttini, 「클라우드 컴퓨팅」. 재출간판. 강송희, 강서연, 김인정 역. 에이콘출판, 2018
     - Thomas Erl, Zaigham Mahmood, Ricardo Puttini, *Cloud Computing: Concepts, Technology & Architecture*. Prentice Hall, 2013
 
-## 유니티5
+## 컴퓨터그래픽스
 -	기타무라 마나미. 「유니티 5 교과서」. 김은철, 유세라 역. 길벗, 2017
     - 北村愛実. 「Unity5の教科書 2D&3Dスマートフォンゲーム入門講座」. SBクリエイティブ, 2016
+- 한정현. 「3차원 컴퓨터 그래픽스 입문」. 홍릉과학출판사. 2019
 
-
-## LLM
+## LLM, 정보 검색
 -	김철수. 「챗GPT와 글쓰기」. 위키북스, 2023
 -	Stephen Wolfram. 「스티븐 울프럼의 챗GPT 강의」. 박해선 역. 한빛미디어, 2023
     - Stephen Wolfram. *What Is ChatGPT Doing ... and Why Does It Work?*. Wolfram Media Inc, 2023
 -	이기창. 「Do it! BERT와 GPT로 배우는 자연어 처리」. 이지스퍼블리싱, 2021
-
+- 스테판 버처, 찰스 클라크, 고등 코맥. 「정보 검색의 이론과 실제」. 임형준, 김진홍 역. 에이콘 출판. 2021
 ## 웹 크롤링
 -	Ryan Mitchell. 「파이썬으로 웹 크롤러 만들기」. 한선용 역. 한빛미디어, 2016
     - Ryan Mitchell. *Web Scraping with Python: Collecting Data from the Modern Web*. 1st ed. O’Reilly Media, 2015
@@ -219,7 +228,9 @@
 -	김승영, 고지영. 「뜯어먹는 수능 1등급 영숙어 1200」. 동아출판, 2019
 -	David Cho. 「해커스 보카 (Hackers Vocabulary)」. 해커스어학연구소, 2015
 -	David Cho. 「해커스 토플 수퍼 보카 (Hackers Super Vocabulary)」. 해커스어학연구소, 2002
-
+-	전광훈. 「워드마스터 Word Master 고등 숙어」. 이투스북. 2023
+- 고명희. 「토마토 TOELF iBT Vocabulary」. 능률교육. 2007
+  
 ## 영어 문법
 -	Raymond Murphy, *English Grammar in Use Book with Answers*. 5th ed. Cambridge University Press. 2015
 -	이정우. 「EBSi 강의교재 개념 끝장내기 중학 영어 문법 (2024년용)」. 한국교육방송공사, 2016
@@ -243,7 +254,8 @@
 -	강윤혜(해설). 「스크린 영어회화 : 주토피아」. 길벗이지톡, 2016
 -	라이언 강(해설). 「스크린 영어회화 : 라푼젤 」. 길벗이지톡, 2018
 -	강윤혜(해설). 「스크린 영어회화 : 겨울왕국 」. 길벗이지톡, 2014
-
+- June Sweeney. 「영어 단어의 결정적 의미 확장들」. 사람in. 2024
+- 룩룩잉글리쉬. 「영어 회화의 결정적 패턴들」. 룩룩잉글리쉬. 2019
 
 ## 토익
 -	영단기연구소. 「커넥츠 영단기 영단기 신토익 LC+RC 빈출 모의고사」. 에스티유니타스, 2017
@@ -254,6 +266,9 @@
 ## 오픽
 -	해커스 오픽연구소. 「10일 만에 끝내는 해커스 OPIc 오픽 (Advanced 공략)」. 해커스, 2023
 -	정유민. 「파고다 OPIC IM」. 파고다, 2022
+
+## 토익스피킹
+- David Cho. 「10일 만에 끝내는 해커스 토익스피킹(토스) 스타트」. 해커스어학연구소(Hackers). 2024
 
 # 한자
 -	허진웅. 「유래를 품은 한자7」. 하영삼, 김화영 역. 도서출판3, 2021
@@ -269,7 +284,7 @@
 
 # 여행
 -	전상현, 두경아. 「무작정 따라하기 후쿠오카(유후인.벳푸.나가사키.기타큐슈)」. 길벗, 2019
-
+- 타블라라사 편집부, 이정기. 「에이든 제주여행 가이드북」. 타블라라사. 2023
 # 고전
 -	추적. 「명심보감」. 백선혜 역. 홍익, 2011
 -	공자. 「논어」. 유일석 역. 새벽이슬, 2010
@@ -301,7 +316,7 @@
 -	카타야마 쿄이치. 「세상의 중심에서 사랑을 외치다」. 안중식 역. 지식여행, 2015
     - 片山恭一. 「世界の中心で, 愛をさけぶ」. 小學館, 2006
 -	Antoine de Saint-Exupéry. *The Little Prince*. Katherine Woods Trans. Egmont Books, 1991
-
-
+- 헤르만 헤세. 「데미안」. 배수아 역. 그책. 2018
+- 김욱. 「찬란한 문학의 문장들」. 윌마. 2025
 # 경영
 -	독학학위연구소. 「2023 A+ 독학사 1단계 교양과정 경영학개론 한권합격」. 시대고시기획, 2023
